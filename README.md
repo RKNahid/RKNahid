@@ -2,8 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey%20Everyone&fontSize=90" />
 </p>
 <p align="center">
-  <img src="https://tenor.com/view/data-code-coding-facts-numbers-gif-27290753&color=auto&height=300&section=header&text=Hey%20Everyone&fontSize=90" />
+  <img src="https://tenor.com/view/data-code-coding-facts-numbers-gif-27290753&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hey%20Everyone&fontSize=90" />
 </p>
+
+![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=RKNahid&theme=dark&show_icons=true)
 
 - 👋 Hi, I’m @RKNahid
 - 👀 I’m interested in ...
