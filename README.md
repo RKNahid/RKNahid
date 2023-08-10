@@ -1,12 +1,16 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey%20Everyone&fontSize=90" />
 </p>
+<p align="center">
+  <img src="https://tenor.com/view/data-code-coding-facts-numbers-gif-27290753&color=auto&height=300&section=header&text=Hey%20Everyone&fontSize=90" />
+</p>
 
 - 👋 Hi, I’m @RKNahid
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- 
 https://ibb.co/vZFqztd
 <!---
 RKNahid/RKNahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
