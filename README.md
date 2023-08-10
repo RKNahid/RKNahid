@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hey%20Everyone&fontSize=75" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=RKnahid&theme=transparent_icons=true)
 
-<img align="right" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif&height=100&width=100" align="rifht"/>
+<img align="right" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif&size=100px" align="rifht"/>
 
 - 👋 Hi, I’m @RKNahid
 - 👀 I’m interested in ...
