@@ -6,13 +6,6 @@
 
 <img align="right" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif&size=100px" align="rifht"/>
 
-- 👋 Hi, I’m @RKNahid
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 
-https://ibb.co/vZFqztd
 <!---
 RKNahid/RKNahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
