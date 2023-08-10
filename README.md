@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hey%20Everyone&fontSize=90" />
 </p>
 <p align="center">
-  <img src="https://tenor.com/view/data-code-coding-facts-numbers-gif-27290753" />
+  <img src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif&height=300"/>
 </p>
 
 ![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=RKNahid&theme=dark&show_icons=true)
