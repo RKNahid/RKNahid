@@ -15,7 +15,11 @@
 <img align="right" height="300" width="300" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+
 <p align="left">
+<a href="tel:+8801914097884">
+<img src="https://freesvg.org/img/phone-call-icon.png" alt="Contact" width="45" height="45" />
+</a>
 <a href="http://facebook.com/rinahid.27">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="45" height="45" />
 </a>
