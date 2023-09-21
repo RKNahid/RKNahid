@@ -17,7 +17,7 @@
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
 <p align="left">
-<a href= "https://github.com/RKNahid/RKNahid/blob/main/Contact">
+<a href= "https://github.com/RKNahid/Personal-Info/blob/main/Contact">
 <img src="https://freesvg.org/img/phone-call-icon.png" alt="Contact" width="45" height="45" />
 </a>
 <a href= "https://github.com/RKNahid/Personal-Info/blob/main/NID">
