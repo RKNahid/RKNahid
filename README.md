@@ -17,12 +17,7 @@
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
 <p align="left">
-//<a href= "https://github.com/RKNahid/Personal-Info/blob/main/Contact">
-//<img src="https://freesvg.org/img/phone-call-icon.png" alt="Contact" width="45" height="45" />
-//</a>
-<a href= "https://github.com/RKNahid/Personal-Info/blob/main/NID">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8k-v_1vDfGkbXATczPu0lVWQEYkD9Ya9bLQ&usqp=CAU" alt="NID" width="45" height="38" />
-</a>
+
 <a href="http://facebook.com/rinahid.27">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="45" height="45" />
 </a>
