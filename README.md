@@ -21,8 +21,6 @@
 <a href="http://facebook.com/rinahid.27">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="45" height="45" />
 </a>
-<a href="https://www.instagram.com/rakibul_nahid/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Facebook" width="45" height="45" />
 </a>  
 <a href="https://www.linkedin.com/in/097884rk/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45" />
