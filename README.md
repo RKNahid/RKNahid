@@ -22,7 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="45" height="45" />
 </a>
 </a>  
-&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/097884rk/">
+<a href="https://www.linkedin.com/in/097884rk/">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45" />
 </a> 
 
