@@ -18,7 +18,7 @@
 
 <p align="left">
 
-<a href="http://facebook.com/rinahid.27">
+<a href="http://facebook.com/rakibulnahid.27">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="45" height="45" />
 </a>  
 <a href="https://www.linkedin.com/in/097884rk/">
